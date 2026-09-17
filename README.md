@@ -69,21 +69,3 @@ Construo sistemas que unem produto, automação e inteligência artificial. Squa
 **Produto & Full Stack** — SaaS e ferramentas internas com TypeScript, Next.js, Astro e Tailwind, rodando em Cloudflare Workers, D1 e Supabase.
 
 **Liderança Técnica** — Arquitetura, padrões de código e decisão de stack para times que precisam entregar rápido sem virar dívida técnica.
-
----
-
-### 📊 GitHub
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=eusouandersonluiz&hide_border=true&theme=github-dark" height="180" alt="GitHub Streak" />
-</div>
-
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eusouandersonluiz&theme=github_dark" height="200" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eusouandersonluiz&theme=github_dark" height="200" alt="Linguagens mais usadas" />
-</div>
-
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eusouandersonluiz&theme=github_dark" height="200" alt="Repositórios por linguagem" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eusouandersonluiz&theme=github_dark&utcOffset=-3" height="200" alt="Horários produtivos" />
-</div>
