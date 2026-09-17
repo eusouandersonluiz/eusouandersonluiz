@@ -87,13 +87,3 @@ Construo sistemas que unem produto, automação e inteligência artificial. Squa
 **Infra & Entrega** — Cloudflare Workers e D1 como plataforma padrão, Docker onde faz sentido, GitHub Actions para CI e deploy. Menos servidor para cuidar, mais produto no ar.
 
 **Liderança Técnica** — Arquitetura, padrões de código e decisão de stack para times que precisam entregar rápido sem virar dívida técnica.
-
----
-
-### 📌 Projetos públicos
-
-**[astracampaign](https://github.com/eusouandersonluiz/astracampaign)** — Sistema completo de campanhas de WhatsApp com IA integrada. Open source.
-
-**[stark-squad](https://github.com/eusouandersonluiz/stark-squad)** — Squad de marketing digital para Meta Ads, instalável com `npx stark-squad`.
-
-> A maior parte do que construo vive em repositórios privados de clientes. O que dá para abrir, abro aqui.
